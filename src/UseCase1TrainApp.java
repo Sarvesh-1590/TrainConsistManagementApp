@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class TrainApp {
+public class UseCase1TrainApp {
     public static void main(String[] args) {
         // Application prints welcome message
         System.out.println("=== Train Consist Management App ===");
