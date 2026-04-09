@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 
-public class UseCase11RegexValidation {
+public class UC11_Regex_Validation {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // Define regex patterns
